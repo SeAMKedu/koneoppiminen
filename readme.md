@@ -8,7 +8,7 @@ Esimerkkejä NumPyn ja matplotlibin käytöstä löydät [NumPy_ja_Matplotlib.ip
 
 ## 1 Lineaarinen regressio
 
-[Teoria](/1%20Lineaarinen%20regressio/Lineaarinen_regressio.ipynb) ja [harjoitukset]((/1%20Lineaarinen%20regressio/Lineaarinen_regressio.ipynb))
+[Teoria](/1%20Lineaarinen%20regressio/Lineaarinen_regressio.ipynb) ja [harjoitukset](/1%20Lineaarinen%20regressio/Lineaarinen_regressio_harjoituksia.ipynb)
 
 ## 2 Logistinen regressio
 
