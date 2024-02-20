@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10682692.svg)](https://doi.org/10.5281/zenodo.10682692)
+
 # Koneoppinen, kurssi materiaali
 
 Tästä repositorystä löytyvät materiaalit koneoppimiskurssille Jupyter notebook muodossa. Voit joko asentaa [ympäristön](https://jupyter.org/) omalle koneellesi tai käyttää esimerkiksi [Google Colab](https://colab.research.google.com/)ia.
